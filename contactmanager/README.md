@@ -17,7 +17,7 @@ You can add, view, search, delete, save, and load contacts using JSON files.
 Clone  the repository
 ```bash
 git clone https://github.com/hssh8877/Go-practice
-cd Go-practice/log-analyzer
+cd Go-practice/contacmanager
 ```
 
 # Usage
