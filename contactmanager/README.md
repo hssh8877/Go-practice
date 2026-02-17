@@ -12,7 +12,7 @@ You can add, view, search, delete, save, and load contacts using JSON files.
 - Save contacts to a JSON file (`contacts.json`)  
 - Load contacts from a JSON file  
 
-# Installtion
+# Installation
 
 Clone  the repository
 ```bash
@@ -26,7 +26,10 @@ go run .
 ```
 
 2. The Menu:
-   ===Contacts===
+
+
+
+------Contacts------
    1. Add contact
    2. Show contacts
    3. Search contact
