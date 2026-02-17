@@ -1,0 +1,9 @@
+INFO Application started
+INFO User login successful
+WARN Disk space is running low
+INFO Scheduled job executed
+ERROR Failed to connect to database
+INFO Retrying connection
+ERROR Timeout while connecting to database
+WARN Deprecated API usage
+INFO Application shutdown
