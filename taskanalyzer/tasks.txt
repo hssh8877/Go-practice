@@ -1,0 +1,6 @@
+TODO Buy milk
+DONE Call Mum
+TODO Learn Golang
+DONE Send mail to Dad
+TODO Write README
+DONE Reading a book about Backend-Development
