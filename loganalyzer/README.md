@@ -28,7 +28,7 @@ Usage
 go run .
 ```
 
-The program reads sample.log in the folder and generates analysis.json with the log analysis results.
+#The program reads sample.log in the folder and generates analysis.json with the log analysis results.
 Example output:
 
 {
@@ -38,7 +38,7 @@ Example output:
   "error": 2
 }
 
-File Structure
+#File Structure
 
 log-analyzer/
 ├── main.go       # Main program logic
