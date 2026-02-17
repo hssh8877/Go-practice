@@ -19,10 +19,10 @@ Clone the repository:
 ```bash
 git clone https://github.com/hssh8877/Go-practice
 cd Go-practice/loganalyzer
+```
 
-
-Usage
-
+## Usage
+```bash
 #Run the program:
 
 go run .
