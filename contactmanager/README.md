@@ -12,11 +12,18 @@ You can add, view, search, delete, save, and load contacts using JSON files.
 - Save contacts to a JSON file (`contacts.json`)  
 - Load contacts from a JSON file  
 
-## Usage
+# Installtion
 
-1. Run the program:  
-   ```bash
-   go run main.go contacts_save_load.go
+Clone  the repository
+```bash
+git clone https://github.com/hssh8877/Go-practice
+cd Go-practice/log-analyzer
+```
+
+# Usage
+```bash
+go run .
+```
 
 2. The Menu:
    ===Contacts===
