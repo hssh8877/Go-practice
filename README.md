@@ -1,40 +1,12 @@
-# Go Log-Analyzer
+# Go Practice - Learning Journey
 
-A simple CLI tool written in Go to analyze log files.  
-It reads a log file, counts the number of INFO, WARN, and ERROR messages, and outputs the results as structured JSON.
+This repository is dedicated to my progress in learning the Go programming language (Golang). It serves as a central place for exercises, experiments, and small projects as I transition into backend development.
 
-## Features
+## Goals
+The primary objective of this repository is to document my path from a career changer to a specialized backend developer. I chose Go for its simplicity, performance, and modern approach to systems architecture.
 
-- Reads log files line by line using `bufio.Scanner`
-- Counts INFO, WARN, and ERROR entries
-- Tracks total number of lines
-- Outputs analysis in JSON (`analysis.json`)
-- Safe file handling with `defer` and proper error checks
-- Easily extendable for future features
-
-## Installation
-
-Clone the repository:
-
-```bash
-git clone https://github.com/hssh8877/Go-practice
-cd Go-practice/log-analyzer
-
-
-Usage
-
-#Run the program:
-
-go run .
-```
-
-The programm reads sample.log in the folder and generates anaylsis.json with the results.
-For Example:
-{
-  "lines": 9,
-  "info": 5,
-  "warn": 2,
-  "error": 2
-}
-
+## Tech Stack
+* Language: Go (Golang)
+* OS: Fedora Linux
+* IDE: JetBrains GoLand
 
