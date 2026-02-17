@@ -19,13 +19,14 @@ Clone the repository:
 ```bash
 git clone https://github.com/hssh8877/Go-practice
 cd Go-practice/log-analyzer
-```
+
 
 Usage
 
-Run the program:
+#Run the program:
 
 go run .
+```
 
 The program reads sample.log in the folder and generates analysis.json with the log analysis results.
 Example output:
