@@ -18,7 +18,7 @@ Clone the repository:
 
 ```bash
 git clone https://github.com/hssh8877/Go-practice
-cd Go-practice/log-analyzer
+cd Go-practice/loganalyzer
 
 
 Usage
@@ -28,8 +28,9 @@ Usage
 go run .
 ```
 
-The programm reads sample.log in the folder and generates anaylsis.json with the results.
-For Example:
+The program reads sample.log in the folder and generates analysis.json with the log analysis results.
+Example output:
+
 {
   "lines": 9,
   "info": 5,
@@ -37,4 +38,11 @@ For Example:
   "error": 2
 }
 
+File Structure
 
+log-analyzer/
+├── main.go       # Main program logic
+├── stats.go      # LogStats struct definition
+├── sample.log    # Example log file
+├── analysis.json # Generated analysis output
+└── README.md     # Project documentation
