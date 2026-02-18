@@ -1,0 +1,13 @@
+LOGIN alice
+LOGIN bob
+LOGIN charlie
+LOGOUT alice
+LOGIN alice
+LOGOUT bob
+LOGIN bob
+LOGIN alice
+LOGOUT charlie
+LOGOUT alice
+LOGIN dave
+LOGOUT dave
+LOGIN alice

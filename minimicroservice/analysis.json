@@ -1,0 +1,22 @@
+{
+   "users": {
+     "alice": {
+       "login": 4,
+       "logout": 2
+     },
+     "bob": {
+       "login": 2,
+       "logout": 1
+     },
+     "charlie": {
+       "login": 1,
+       "logout": 1
+     },
+     "dave": {
+       "login": 1,
+       "logout": 1
+     }
+   },
+   "total_logins": 8,
+   "total_logouts": 5
+ }
